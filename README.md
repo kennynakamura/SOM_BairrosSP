@@ -14,22 +14,22 @@ Dados utlizados
 - Zona
 
 Bairros
-- Aricanduva/Vila Formosa          - Butantã
-- Campo Limpo                      - Capela do Socorro
-- Casa Verde                       - Cidade Ademar
-- Cidade Tiradentes                - Ermelino Matarazzo
-- Freguesia do Ó/Brasilândia       - Guaianases
-- Ipiranga                         - Itaim Paulista
-- Itaquera                         - Jabaquara
-- Jaçanã/Tremenbé                  - Lapa
-- M'Boi Mirim                      - Mooca
-- Paralheiros                      - Penha
-- Perus                            - Pinheiros
-- Pirituba/Jaraguá                 - Santana/Tucuruvi
-- Santo Amaro                      - São Mateus
-- São Miguel Paulista              - Sé
-- Vila Mariana                     - Vila Maria/Vila Guilherme
-- Vila Prudente
+Aricanduva/Vila Formosa          - Butantã
+Campo Limpo                      - Capela do Socorro
+Casa Verde                       - Cidade Ademar
+Cidade Tiradentes                - Ermelino Matarazzo
+Freguesia do Ó/Brasilândia       - Guaianases
+Ipiranga                         - Itaim Paulista
+Itaquera                         - Jabaquara
+Jaçanã/Tremenbé                  - Lapa
+M'Boi Mirim                      - Mooca
+Paralheiros                      - Penha
+Perus                            - Pinheiros
+Pirituba/Jaraguá                 - Santana/Tucuruvi
+Santo Amaro                      - São Mateus
+São Miguel Paulista              - Sé
+Vila Mariana                     - Vila Maria/Vila Guilherme
+Vila Prudente
 
 ![alt text](https://github.com/kennynakamura/SOM_BairrosSP/blob/master/SOM_BairroSP.png?raw=true)
 
